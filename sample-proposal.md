@@ -13,4 +13,6 @@ USER STORIES:
 - As a user, if I try to submit with no entry in the input box, I see a message on the screen telling me to enter a value to search so that I cannot submit without entering a value
 - As a user, I can click on a photo so that I can view a single photo with information about that photo
 
+### Data Snapshot
+
 ![API Data Screenshot](./assets/api-data.png)
