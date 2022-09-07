@@ -4,7 +4,7 @@
 
 I will create an application using the GIPHY API for data.
 
-### USER STORIES
+### User Stories
 
 - As a user, when I visit the website I see a way to navigate to multiple pages.
 - As a user I can click on an About link so that it will navigate to a new page where I see information about the developer.
@@ -13,6 +13,6 @@ I will create an application using the GIPHY API for data.
 - As a user, if I try to submit with no entry in the input box, I see a message on the screen telling me to enter a value to search so that I cannot submit without entering a value
 - As a user, I can click on a photo so that I can view a single photo with information about that photo
 
-### DATA SNAPSHOT
+### Data Snapshot
 
 ![API Data Screenshot](./assets/api-data.png)
