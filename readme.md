@@ -17,7 +17,7 @@ In addition to attaining at least 21 points, you must also complete one or more 
 
 ### Specific requirements
 
-17 specific requirements should be completed as part of this project. Each of the requirements below scores 1 point.
+18 specific requirements should be completed as part of this project. Each of the requirements below scores 1 point.
 
 #### Overall requirements
 
@@ -48,11 +48,6 @@ In addition to attaining at least 21 points, you must also complete one or more 
 16. You will present your application to the class or a designated group of your peers as well as your instructors.
 1. You should be able to describe the application's theme and purpose and relate your application to your interests or personal narrative.
 1. You should be able to demonstrate a front-end feature and describe the code in technical terms.
-
-#### Interview requirements
-
-19. You may be asked by your instructor(s) to explain a part of your code.
-1. You should be able to describe the code in technical terms.
 
 ### Project rubric
 
