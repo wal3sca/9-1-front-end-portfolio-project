@@ -9,7 +9,7 @@ This project will:
 - Have a theme and unique product design.
 - Have a deployed front-end application.
 
-**There are no tests created for this project.**
+**\*\*There are no tests created for this project.**
 
 ## Success criteria
 
