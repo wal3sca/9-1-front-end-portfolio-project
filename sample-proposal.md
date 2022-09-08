@@ -13,7 +13,7 @@ I will create an application using the GIPHY API for data.
 - As a user, if I try to submit with no entry in the input box, I see a message on the screen telling me to enter a value to search so that I cannot submit without entering a value
 - As a user, I can click on a photo so that I can view a single photo with information about that photo
 
-(if you cannot write user stories, write a paragraph stating what api you will use and each functionality your application will have.)
+**\*\*if you cannot write user stories, write a paragraph stating what api you will use and each functionality your application will have.**
 
 ### Data Snapshot
 
