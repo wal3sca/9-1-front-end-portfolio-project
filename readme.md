@@ -158,9 +158,11 @@ Please submit your proposal in one Slack thread that includes both me & Carlos. 
 
 - a link to your Github 9-1-front-end-project which will include these files:
 
-1.  style.css file (this can be empty) - proposal.md file that states what your app will do. see video
-1.  index.html with a header title of your project for now and your name
-    main.js with a fetch call to your api. This file should be linked to your index.html file
-1.  a snapshot of the data that was fetched from your application
+  1. style.css file (this can be empty)
+  1. proposal.md file that states what your app will do. see video
+  1. index.html with a header title of your project for now and your name
+     main.js with a fetch call to your api. This file should be linked to your index.html file
+
+- a snapshot of the data that was fetched from your application
 
 Then, follow the specifications above to create your application. Work with your instructors to approve your features before you begin working on them.
