@@ -97,12 +97,7 @@ Your instructors will give you access to a Pursuit-hosted API that contains a va
 
 https://pursuit-9-1-full-stack-project.herokuapp.com/
 
-Some of the data came from the following sites:
-
-- [DummyJSON](https://dummyjson.com/)
-- [The Sports DB](https://www.thesportsdb.com/api.php)
-
-### Resources
+### Endpoints
 
 The following endpoints exist for the Pursuit-hosted API:
 
@@ -111,6 +106,11 @@ The following endpoints exist for the Pursuit-hosted API:
 - Products: `/api/products`
 - Quotes: `/api/quotes`
 - Sports: `/api/sports`
+
+Some of the data came from the following sites:
+
+- [DummyJSON](https://dummyjson.com/)
+- [The Sports DB](https://www.thesportsdb.com/api.php)
 
 In addition to the Pursuit-hosted API, you may wish to choose from some of the following APIs. These APIs may require API keys. Before committing to working with one of the following APIs, _ensure that you can get access to the data from it via a request from a front-end application._ It _is not recommended_ that you pay for an API for this project.
 
