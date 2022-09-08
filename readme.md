@@ -128,6 +128,7 @@ In addition to the Pursuit-hosted API, you may wish to choose from some of the f
 1. [City of Chicago](https://data.cityofchicago.org/)
 1. [Chuck Norris](http://www.icndb.com/)
 1. [Rick and Morty](https://rickandmortyapi.com/documentation/#rest)
+1. [Trivia Questions](https://jservice.io/)
 
 The following two websites provide access to a number of APIs. Not all of these APIs are easy to access and some will be paid. Please be careful before engaging with an unknown API.
 
