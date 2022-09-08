@@ -154,7 +154,7 @@ _Do not_ fork this repository. Instead, create your repository on GitHub and sub
 
 Please submit your proposal in one Slack thread that includes both me & Carlos. Do not send separately.
 
-####Proposal will include 2 things:
+#### Proposal will include 2 things:
 
 - a link to your Github 9-1-front-end-project which will include these files: - style.css file (this can be empty) - proposal.md file that states what your app will do. see video - index.html with a header title of your project for now and your name
   main.js with a fetch call to your api. This file should be linked to your index.html file
