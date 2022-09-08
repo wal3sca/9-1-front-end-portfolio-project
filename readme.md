@@ -93,7 +93,9 @@ In addition to the specific requirements, you should aim to score _Proficient_ o
 
 Your instructors will give you access to a Pursuit-hosted API that contains a variety of data. You can build your application using any one of these data sets if you so choose.
 
-#### Pursuit-hosted API url: (you must add an endpoint from below to see the data)
+#### Pursuit-hosted API url:
+
+Use the url below as your base url. You must add an endpoint from below to see actual data
 
 https://pursuit-9-1-full-stack-project.herokuapp.com/
 
