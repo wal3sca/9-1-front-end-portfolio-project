@@ -95,6 +95,11 @@ Your instructors will give you access to a Pursuit-hosted API that contains a va
 
 1. [Pursuit-hosted API] (https://pursuit-9-1-full-stack-project.herokuapp.com/)
 
+Some of the data came from the following sites:
+
+- [DummyJSON](https://dummyjson.com/)
+- [The Sports DB](https://www.thesportsdb.com/api.php)
+
 ### Resources
 
 The following endpoints exist for the Pursuit-hosted API:
