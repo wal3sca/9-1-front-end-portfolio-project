@@ -165,4 +165,6 @@ Please submit your proposal in one Slack thread that includes both me & Carlos. 
 
 - a snapshot of the data that was fetched from your application
 
+Instructors will reach out to you to approve or ask you to adjust your proposal.
+
 Then, follow the specifications above to create your application. Work with your instructors to approve your features before you begin working on them.
