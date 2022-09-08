@@ -4,10 +4,10 @@ This project is designed to test all of the skills you've learned so far. By the
 
 This project will:
 
-- Have a deployed front-end application.
 - Allow for user interaction through button clicks and form inputs.
 - Make requests to an external API.
 - Have a theme and unique product design.
+- Have a deployed front-end application.
 
 ## Success criteria
 
@@ -34,7 +34,7 @@ In addition to attaining at least 21 points, you must also complete one or more 
 1. You must make use of CSS Grid to organize your content on at least one of your pages.
 1. You must use the `:hover` selector in at least one CSS rule.
 1. You must use an HTML form on at least one of your pages.
-1. All of your pages must have some visual changes that occur when the screen is a different size.
+1. All of your pages must have some visual changes that occur when the screen is a different size. (i.e. media query)
 
 #### Front-end interactivity requirements
 
@@ -120,7 +120,6 @@ Each Fellow must also define _one or more_ additional features or tasks they wou
 - Use [CSS transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions) to add effects to your page.
 - Incorporate fonts from [Google Fonts](https://fonts.google.com/) onto your page to improve the styling.
 - Store some information locally through [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage). This information should affect what is shown on the page when the page is reloaded.
-- Use a CSS framework such as [Simple.css](https://simplecss.org/) or [Bootstrap](https://getbootstrap.com/).
 - Split your CSS or JavaScript into multiple files, with each file relating to a specific functionality. For example, create a new file called `api.js` that includes the JavaScript code that makes requests to your external API.
 
 ## Getting started
