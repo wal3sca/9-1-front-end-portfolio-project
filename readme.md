@@ -1,6 +1,6 @@
 # Front-end Portfolio Project
 
-This project is designed to test all of the skills you've learned so far. By the end of this project, you should have a portfolio-ready project you can share on your resume as well as with potential employers.
+This project is designed to test all of the skills you've learned so far. By the end of this project, you should have a portfolio-ready project you can share on your resume as well as with potential employers. **There are no tests created for this project.**
 
 This project will:
 
