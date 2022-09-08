@@ -43,10 +43,16 @@ In addition to attaining at least 21 points, you must also complete one or more 
 1. There should be at least one way to incorrectly submit the form. When the form is incorrectly submitted, an error message should be added to the DOM for the user.
 1. Based on a button click or form submission, an external API request must be made. Upon receiving a successful response, something visual on the page should change.
 
+#### Presentation requirements
+
+16. You will present your application to the class or a designated group of your peers as well as your instructors.
+1. You should be able to describe the application's theme and purpose and relate your application to your interests or personal narrative.
+1. You should be able to demonstrate a front-end feature and describe the code in technical terms.
+
 #### Interview requirements
 
-16. In a meeting with an instructor or volunteer, you should be able to describe the application's theme and purpose and relate your application to your interests or personal narrative.
-1. In a meeting with an instructor or volunteer, you should be able to demonstrate a front-end feature and describe the code in technical terms.
+19. You may be asked by your instructor(s) to explain a part of your code.
+1. You should be able to describe the code in technical terms.
 
 ### Project rubric
 
