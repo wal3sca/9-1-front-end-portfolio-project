@@ -97,7 +97,7 @@ Your instructors will give you access to a Pursuit-hosted API that contains a va
 
 Use the url below as your base url. You must add an endpoint from below to see actual data
 
-https://pursuit-9-1-full-stack-project.herokuapp.com/
+https://pursuit-9-1-full-stack-project.herokuapp.com
 
 ### Endpoints
 
