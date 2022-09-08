@@ -4,7 +4,7 @@
 
 I will create an application using the GIPHY API for data.
 
-### User Stories
+### User Stories (if you cannot write user stories, write a paragraph stating what api you will use and each functionality your application will have.)
 
 - As a user, when I visit the website I see a links to multiple pages so that I can navigate from one page to the other
 - As a user I can click on an About link so that it will navigate to a new page where I see information about the developer
