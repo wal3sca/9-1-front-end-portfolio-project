@@ -93,6 +93,18 @@ In addition to the specific requirements, you should aim to score _Proficient_ o
 
 Your instructors will give you access to a Pursuit-hosted API that contains a variety of data. You can build your application using any one of these data sets if you so choose.
 
+1. [Pursuit-hosted API] (https://pursuit-9-1-full-stack-project.herokuapp.com/)
+
+### Resources
+
+The following endpoints exist for the Pursuit-hosted API:
+
+- Colors: `/api/colors`
+- Dinosaurs: `/api/dinosaurs`
+- Products: `/api/products`
+- Quotes: `/api/quotes`
+- Sports: `/api/sports`
+
 In addition to the Pursuit-hosted API, you may wish to choose from some of the following APIs. These APIs may require API keys. Before committing to working with one of the following APIs, _ensure that you can get access to the data from it via a request from a front-end application._ It _is not recommended_ that you pay for an API for this project.
 
 1. [Star Wars](https://swapi.dev/)
