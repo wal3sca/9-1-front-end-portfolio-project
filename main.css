@@ -1,0 +1,19 @@
+body {
+    background-color: khaki;
+}
+
+h1{
+font-family:fantasy;
+text-align: center;
+font-stretch: expanded;
+color: coral;
+}
+
+img {
+    text-align: center;
+    border: 1px solid coral;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+
