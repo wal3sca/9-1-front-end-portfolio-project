@@ -36,3 +36,11 @@ button {
     font-size: 1em;
     transform-origin: 50% 5em;
   }
+
+  form{
+    overflow: hidden;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 8vh;
+  }
